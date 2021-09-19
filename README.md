@@ -1,0 +1,2 @@
+# spotify-auto-create
+SPOTIFY AUTO CREATE ACCOUNT LIMIT
